@@ -1,0 +1,55 @@
+html {
+    background-color: antiquewhite;
+}
+h1.titulo {
+    color: maroon;
+    text-align: center;
+}
+
+p.cafe {
+    text-align: center;
+    
+}
+p.contactos {
+   text-align: right;
+}
+p.letra{
+    color:maroon;
+}
+.letracafe{
+    color:red;
+}
+p.contacto {
+    color: red;
+    font-size: 20px;
+}
+h2.letra {
+    color:maroon;
+}
+.amarillo {
+    color: rgb(255, 166, 0);
+}
+caption {
+    font-weight: bold;
+}
+th.años {
+    padding-left: 50px;
+    padding-right: 50px;
+    color: red;
+}
+.fondo{
+    background-color: yellow;
+}
+.espacio{
+    padding-right: 692px;
+    color: red;
+}
+th.masespacio {
+    padding-left: 150px;
+    padding-right: 150px;
+    color: red;
+    background-color: yellow;
+}
+.tablabajo{
+    padding-right: 1340px;
+    color: red;
